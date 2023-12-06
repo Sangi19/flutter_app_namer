@@ -37,7 +37,7 @@ class MyHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     var appState = context.watch<MyAppState>();
-    var pair = appState.current;
+    var pair = appState.current; // ← Add this.
 
     return Scaffold(
       body: Column(
@@ -65,6 +65,11 @@ class BigCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Text(pair.asLowerCase);
+    return Card(
+      child: Padding(
+        padding: const EdgeInsets.all(8.0),
+        child: Text(pair.asLowerCase),
+      ),
+    );
   }
 }
