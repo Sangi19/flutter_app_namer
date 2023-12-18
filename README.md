@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 ![NamerApp](https://raw.githubusercontent.com/Sangi19/flutter_app_namer/main/namerApp.PNG)
 
 ## Live Version:
-- [Vercel](flutter-app-namer-sangi19.vercel.app)
+- [Vercel](https://flutter-app-namer.vercel.app/)
   
 ## Built by
 
