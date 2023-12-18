@@ -15,9 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## screenshots:
-flutter Namer App:<br>
-![namer app]([https://github.com/Sangi19/flutter_app_namer/blob/main/Capture.PNG)
 
 ## Live Version:
 - [Vercel](flutter-app-namer-sangi19.vercel.app)
